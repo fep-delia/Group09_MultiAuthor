@@ -1,0 +1,8 @@
+Du kan ikke bruge din app til noget i forhold til fart.
+Det er langt fra præcis nok i forhold til udstyr som der er bygget til det formål, og bliver testet i tid og utide .
+Og skulle det andet være tilfældet så er der nogen der står med et meget stort problem i forhold til andre som der har fået en bøde fra det udstyr.
+Appen viser en fart på et måle punkt, hvis hun har kørt 60 2sek efter ser du det ikke Er det en fotovogn så er det kalibreret ved hvert brug.
+Skoda sampler hastigheden med en eller anden frekvens, dvs.
+engang hver x sekund/minut gemmer Skoda hastigheden du køre med nu.
+Da man kan køre hurtigere imellem måle punkterne, kan man såden helt grundlæggende, kun bruge data’en til at bevise en mindste hastighed.
+Man kan dog hvis frekvensen er høj nok, argumentere for at der er nok tid til at køre betydeligt hurtigere mellem målepunkterne.

@@ -1,0 +1,11 @@
+È il ministero di Miss Twiga Santanchè.
+È straordinario il sito anche solo funzioni.
+Pensa che c'è una intera fetta della popolazione che pensa che lo stato dovrebbe pure gestire i mezzi di produzione della nazione.
+Ritengo che il problema sia stato optare per un modulo di accredito che consentisse di inserire manualmente alcuni dati (principalmente REGIONE e PROVINCIA) anziché farli scegliere da un comodo menù a tendina.
+Il filtro non è altro che un riepilogo dei dati inseriti nel database.
+Quindi, se trova TRENTINO ALTO ADIGE scritto in tre modi diversi, per lui sono tre dati diversi da filtrare.
+Avendoci pensato prima, si poteva facilmente evitare il casino con un form di accredito migliore.
+Ora resta solo da aggiustare il form e mettere qualcuno con tanto olio di gomito a ripulire i doppioni.
+Immagino abbiano messo Trentino Alto Adige, Trentino Alto Adige e Trentino Alto Adige.
+Che banda di incompetenti, si sono dimenticato di Trentino Alto Adige.
+È giusto, sono trentino

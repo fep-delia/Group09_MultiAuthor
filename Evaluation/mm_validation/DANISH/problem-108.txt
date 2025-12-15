@@ -1,0 +1,19 @@
+Det er dog ikke tilfældet ved Settings og infoknappen Teksten i Durationknappen skifter mærkeligt, når man skifter mellem "Direct", "1 Change" og "Any" Når man klikker på en afgang, er det så ikke næsten nemmere bare at skrive hele togets "id" (eller hvad man kalder det)?
+I stedet for at vise et rødt eller gult icon, med en foldudknap, som så viser hele togets "id"?
+Igen, mega godt arbejde!
+Det er sjældent jeg gider at kommentere noget, hvilket betyder, at du har lavet noget sejt :))
+DSB burde købe idéen.
+Det' alvorli sygt det der.
+Hiver du bare fat i deres API?
+Mulighed for at dele repo?
+Antager antal byer er restricted fra API, men så kan man selv vælge i eget setup.
+Kan du tilføje flere byer.
+Eksempelvis Vejle og Herning?
+Vildt lavet det der!!!
+Hvis jeg skulle tilføje nogle flere byer hvilke byer ville i ønske?
+Pls pls pls tilføj Køge Nord
+Sejt stykke software, men 'Search' forvirre når man kun har byerne i drop down menuen.
+Søgte efter Vejle og Kolling før den triste sandhed gik op for mig.
+Kan du ikke opensource det og lægge op på GitHub?
+Internettet er stadig lidt fedt af og til takket være folk som dig !
+Skøn ide, tusind tak for dit store arbejde!

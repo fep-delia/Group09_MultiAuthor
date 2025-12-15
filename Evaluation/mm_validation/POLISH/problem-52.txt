@@ -1,0 +1,19 @@
+Każdy pan w lokalnym CH będzie zakładał ADB za 20 złotych, a alternatywne OSy na komórki dostaną kopa rozwojowego.
+Przecież dostęp do alternatywnych sklepów, ręczne instalowanie apk i możliwość publikowania aplikacji w sklepie bez płacenia to najważniejsze zalety androida.
+Jak Google to zamknie to tylko napędzi ludzi do iOS.
+Przerzuć się na GrapheneOS
+Tymczasem Apple: masz już nowy model?
+Ale tak serio, to kurde, nie po to nie używam Linuksa na komputerze żeby musieć się do niego łączyć na telefonie :D
+Jak dobrze że jestem programistą.
+Tak szczerze to nie wiedziałem że tak będzie można ale to fajnie
+Unia to przypadkiem im tego nie zakaże.
+Juz teraz IOS ma wprowadzić sideloading ( albo wprowadził?
+Nie jestem pewien nie używam ) właśnie przez to ze miał przez to jakieś problemy prawne
+Da sie ustawić bezprzewodowy adb i połączyć poprzez localhost z tego samego telefonu ale to upierdliwe i mi nie specjalnie dzialalo
+Jak ktoś nie ogarnia ADB, to nie ogarnia też bezpieczeństwa...
+A potem: &gt; czemu mój telefon zamula &gt; czemu zniknęły mi pieniądze z konta XD
+Długo się nie nacieszyłem brakiem reklam
+A co takiego strasznego dodają w nowym dziadoidzie?
+„sidequest” jak pisanie w terminalu jest za trudne to mozecie se myszka wyklikac xD
+Nie żeby co, ale fork androida napweno istnieje
+Teoretycznie Root załatwia ten problem, jednak co telefon to inna metoda, trudniejsza lub łatwiejsza.

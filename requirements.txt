@@ -1,0 +1,6 @@
+pip install transformers
+pip install datasets
+pip install torch
+pip install adapters
+pip install scikit-learn
+pip install peft

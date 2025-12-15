@@ -1,0 +1,16 @@
+measure{
+  key: "DANISH_f1_score"
+  value: "0.4555843937616083"
+}
+measure{
+  key: "ENGLISH_f1_score"
+  value: "0.32035535604792076"
+}
+measure{
+  key: "ITALIAN_f1_score"
+  value: "0.4356357767832824"
+}
+measure{
+  key: "POLISH_f1_score"
+  value: "0.45879861049936754"
+}

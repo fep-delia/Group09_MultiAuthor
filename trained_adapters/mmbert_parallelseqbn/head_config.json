@@ -1,0 +1,14 @@
+{
+  "config": null,
+  "hidden_size": 768,
+  "label2id": {
+    "LABEL_0": 0,
+    "LABEL_1": 1
+  },
+  "model_class": "ModernBertForSequenceClassification",
+  "model_name": "jhu-clsp/mmBERT-base",
+  "model_type": "modernbert",
+  "name": null,
+  "num_labels": 2,
+  "version": "adapters.1.2.0"
+}

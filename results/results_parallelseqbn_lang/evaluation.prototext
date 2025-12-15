@@ -1,0 +1,12 @@
+measure{
+  key: "task1_f1_score"
+  value: "0.904852547912643"
+}
+measure{
+  key: "task2_f1_score"
+  value: "0.8002234929676355"
+}
+measure{
+  key: "task3_f1_score"
+  value: "0.7196103422307196"
+}

@@ -1,0 +1,24 @@
+A ben poco in realtà, perché ovviamente le distanze in liea d'aria sono ben diverse da quelle effettive e dai tempi di percorrenza, soprattutto in città.
+Fondamentalmente è una pura curiosità.
+Però può essere interessante.
+Errori di cui mi sono accorto: sì «Policlinico» l'ho scritto sbagliato, e sì, il quadrato di RhoFiera avrei dovuto colorarlo come misto ferroviarossa e non solo linea rossa.
+Avrei dovuto indicare la presenza della ferrovia a Cadorna e ho sbagliato a indicare l'estremità nord della rossa.
+Dall'alto sarebbe, nell'ordine: Sesto Marelli, Villa S. Giovanni, Precotto, Gorla, Turro, ecc.
+Se puoi indica con un punto la fermata/stazione, nei diagrammi di voronoi aiuta a capire lo "sbilanciamento" delle aree
+Veramente la ritengo molto utile fa capire quali zone sono scarsamente servite.
+Aggiungere linee che intersecano le zone con poche fermate migliorerebbe ik servizio
+Sarebbe molto interessante fare la stessa valutazione con isocrone per calcolare l'effettiva vicinanza a piedi
+Hai una foto in risoluzione più elevata?
+Bello, ma un voronoi usando la distanza euclidea è poco realistico mica siamo uccelli... sarebbe meglio considerare la rete stradale come un grafo e calcolare le distanze passando per i nodi, anche se computazionalmente deve esser pesante da fare
+Occhio che la distanza in linea d'aria è un conto, la distanza a piedi è un altro.
+Spesso coincide ma se ci sta un naviglio o una ferrovia in superficie da aggirare rischi di distorcere parecchio le zone.
+Quando il colore è sia grigio che colorato indica che ci sono sia una stazione ferroviaria che una fermata di metro, giusto?
+Personalmente cambierei il modo in cui sono colorate quelle zone, perché così sembra che alcune parti dei quartieri siano più vicine alla stazione oppure alla metro.
+C’è un piccolo refuso su Greco Pirelli
+Questo è MapPorn di alto livello
+Sempre detto che a bovisa e oltre serviva una linea metropolitana.
+potresti postarla su r/MapPorn una volta compiute le migliorie che hai in mente
++1 per Lancetti, che ha comunque il passante per Garibaldi (ed è una stazione speciale, con i suoi spazi liminali, le sue installazioni d’arte e quel muretto su via Della’Aprìca che non sarà lì ancora per molto).
+L’unica cosa del passante sono le frenate dei treni, che ti fanno quell’effetto cura acustica della dott.ssa Banshee che è un po’ così ma che ci vuoi fare.
+Mi sa che si è rotto qualcosa a Gorla, perchè mi viene difficile pensare che a precotto la metro più vicina sia gorla e a villa san giovanni sia precotto
+Bella, come l'hai fatta?
