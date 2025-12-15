@@ -1,1 +1,1 @@
-
+tokenized training data was split in order to be pushed to remote repo. Can be remerged to a single arrow file using code data_split.ipynb
