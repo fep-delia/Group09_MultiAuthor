@@ -1,1 +1,3 @@
-tokenized training data was split in order to be pushed to remote repo. Can be remerged to a single arrow file using code data_split.ipynb
+All the raw text data used contained within respective subdirectories. Paths to these are defined in all scripts
+
+Tokenized training data was split in order to be pushed to remote repo. Can be remerged to a single arrow file using code data_split.ipynb
