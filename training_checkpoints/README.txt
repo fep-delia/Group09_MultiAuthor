@@ -1,1 +1,1 @@
-Empty to lower repo size, but simply the output directory for checkpoints during adapter training
+Empty to lower repo size, but where training checkpoints would be stored during training using the current iteration of notebooks/scripts.
