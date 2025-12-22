@@ -19,6 +19,14 @@ Naming convention example:
 
 ---
 
+## Analysis notebook (custom scripts)
+
+The notebook `analysis_stats.ipynb` contains custom scripts used for the Analysis section of the report and Supplementary Information D.
+
+To reproduce the results from this notebook, all required data files (both PAN data and the newly compiled Reddit datasets) must be placed in the same folder as `analysis_stats.ipynb`, **or** the data directory paths inside the notebook must be updated accordingly.
+
+---
+
 ## Reddit scraping (multilingual evaluation data)
 
 We generate multilingual evaluation datasets (Danish, Italian, Polish) by scraping Reddit and saving the data in PAN-style format:
