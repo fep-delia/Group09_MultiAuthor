@@ -38,10 +38,18 @@ We generate multilingual evaluation datasets (Danish, Italian, Polish) by scrapi
 The custom scraping script is placed at:
 - `scripts/scrape_reddit_panstyle.py`
 
-### Install dependencies
-We use YARS for scraping (external dependency) and a small set of Python packages.
+---
 
+### Credit
+Scraping uses YARS: [datavorous/yars](https://github.com/datavorous/yars)
+The analysis notebook uses HurtLex: [valeriobasile/hurtlex](https://github.com/valeriobasile/hurtlex)
+
+---
+
+### Install YARS dependencies
 Recommended:
 ```bash
 pip install -r requirements.txt
+
+
 
