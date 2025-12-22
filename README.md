@@ -22,6 +22,8 @@ Naming convention example:
 ## Analysis notebook (custom scripts)
 
 The notebook `analysis_stats.ipynb` contains custom scripts used for the Analysis section of the report and Supplementary Information D.
+The notebook is located at:
+- `scripts/analysis_stats.ipynb`
 
 To reproduce the results from this notebook, all required data files (both PAN data and the newly compiled Reddit datasets) must be placed in the same folder as `analysis_stats.ipynb`, **or** the data directory paths inside the notebook must be updated accordingly.
 
@@ -32,9 +34,7 @@ To reproduce the results from this notebook, all required data files (both PAN d
 We generate multilingual evaluation datasets (Danish, Italian, Polish) by scraping Reddit and saving the data in PAN-style format:
 - `problem-<id>.txt` (one sentence per line)
 - `truth-problem-<id>.json` (fields: `authors`, `changes`)
-
-### Script location
-Place the scraping script at:
+The custom scraping script is placed at:
 - `scripts/scrape_reddit_panstyle.py`
 
 ### Install dependencies
