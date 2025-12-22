@@ -34,6 +34,7 @@ To reproduce the results from this notebook, all required data files (both PAN d
 We generate multilingual evaluation datasets (Danish, Italian, Polish) by scraping Reddit and saving the data in PAN-style format:
 - `problem-<id>.txt` (one sentence per line)
 - `truth-problem-<id>.json` (fields: `authors`, `changes`)
+
 The custom scraping script is placed at:
 - `scripts/scrape_reddit_panstyle.py`
 
