@@ -42,6 +42,7 @@ The custom scraping script is placed at:
 
 ### Credit
 Scraping uses YARS: [datavorous/yars](https://github.com/datavorous/yars)
+
 The analysis notebook uses HurtLex: [valeriobasile/hurtlex](https://github.com/valeriobasile/hurtlex)
 
 ---
